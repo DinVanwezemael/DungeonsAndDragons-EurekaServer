@@ -11,5 +11,6 @@ public class DungeonsAndDragonsEurekaServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DungeonsAndDragonsEurekaServiceApplication.class, args);
 	}
-
 }
+
+
